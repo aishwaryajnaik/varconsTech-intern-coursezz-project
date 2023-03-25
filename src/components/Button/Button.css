@@ -1,0 +1,20 @@
+.normalBtn{
+    border: 1px solid #04F06A;
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+}
+.normalBtn:hover{
+    background: #84ffc9;
+    color: #ffffff;
+}
+.filledBtn{
+    background: #eca0ff;
+    color: #ffffff;
+    font-weight: 600;
+    font-size: 16px;
+}
+.filledBtn:hover{
+    border: 1px solid #04F06A;
+    background-color: #ffffff;
+}

@@ -1,0 +1,29 @@
+footer{
+    background-color: #eca0ff;
+}
+footer ul{
+    margin-top: 20px;
+}
+footer ul li{
+    display: block;
+    padding: 3px;
+}
+footer ul li a{
+    text-decoration: none;
+    color: #ebf4f5;
+
+}
+footer h5{
+    color: #84ffc9;
+}
+footer h5 a{
+    color: #84ffc9;
+}
+.copyright{
+    background-color: #84ffc9;
+    padding: 10px;
+}
+.copyright h4{
+font-weight: bold;
+    color: #eca0ff;
+}
